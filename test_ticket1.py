@@ -9,6 +9,3 @@ def test_ticker_initialization():
     '''Test if the Ticker object is correctly initialized'''
     assert ticker_obj.ticker == stock_ticker
 
-
-
-
